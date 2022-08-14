@@ -27,7 +27,7 @@ SECRET_KEY = "S_KEY"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pure-sands-17004.herokuapp.com']
 
 
 # Application definition
